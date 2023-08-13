@@ -26,7 +26,7 @@ export default function Home() {
         <Button
           size='large'
           variant='contained'
-          href='/hello'
+          href='/register'
           className='bg-white text-black hover:scale-110 '
         >
           Register Now!

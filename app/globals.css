@@ -6,6 +6,12 @@
   .center {
     @apply justify-center items-center flex;
   }
+  .input-style {
+    @apply w-full px-3 py-2 text-sm leading-tight text-black border;
+  }
+  .label-style {
+    @apply block mb-2 text-sm font-bold text-white;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
